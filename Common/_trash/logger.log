@@ -1,0 +1,37 @@
+02-06-2022 19:00:52 INFO _________________________________________________
+02-06-2022 19:00:52 INFO Starting Test Case GoogleTest
+02-06-2022 19:00:52 INFO _________________________________________________
+02-06-2022 19:00:54 INFO Called fill_search_field method
+02-06-2022 19:00:59 INFO Called fill_search_field method
+02-06-2022 19:01:13 INFO Test Case 'GoogleTest' Finished
+02-06-2022 19:02:32 INFO _________________________________________________
+02-06-2022 19:02:32 INFO Starting Test Case GoogleTest
+02-06-2022 19:02:32 INFO _________________________________________________
+02-06-2022 19:02:34 INFO Called fill_search_field method
+02-06-2022 19:02:38 INFO Called press_to_search_button method
+02-06-2022 19:05:30 INFO _________________________________________________
+02-06-2022 19:05:30 INFO Starting Test Case GoogleTest
+02-06-2022 19:05:30 INFO _________________________________________________
+02-06-2022 19:05:34 INFO Called fill_search_field method
+02-06-2022 19:05:40 INFO Called press_to_search_button method
+02-06-2022 19:07:36 INFO _________________________________________________
+02-06-2022 19:07:36 INFO Starting Test Case GoogleTest
+02-06-2022 19:07:36 INFO _________________________________________________
+02-06-2022 19:07:39 INFO Called fill_search_field method
+02-06-2022 19:07:44 INFO Called press_to_search_button method
+02-06-2022 19:08:05 ERROR Element ('xpath', "//img[@class='rg_asasi Q4LuWd']") not found
+03-06-2022 19:07:26 INFO _________________________________________________
+03-06-2022 19:07:26 INFO Starting Test Case GoogleTest
+03-06-2022 19:07:26 INFO _________________________________________________
+03-06-2022 19:07:30 INFO Called fill_search_field method
+03-06-2022 19:07:35 INFO Called press_to_search_button method
+03-06-2022 19:08:01 ERROR Element ('xpath', "//img[@class='rg_asasi Q4LuWd']") not found
+03-06-2022 19:08:51 INFO _________________________________________________
+03-06-2022 19:08:51 INFO Starting Test Case GoogleTest
+03-06-2022 19:08:51 INFO _________________________________________________
+03-06-2022 19:08:54 INFO Called fill_search_field method
+03-06-2022 19:08:59 INFO Called press_to_search_button method
+03-06-2022 19:09:15 INFO Test Case 'GoogleTest' Finished
+03-06-2022 19:09:55 INFO _________________________________________________
+03-06-2022 19:09:55 INFO Starting Test Case GoogleTest
+03-06-2022 19:09:55 INFO _________________________________________________

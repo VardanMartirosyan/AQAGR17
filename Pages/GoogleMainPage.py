@@ -15,7 +15,7 @@ class MainPage(BasePageClass):
         searhField = self.find.custom_find(self.locators.searchFieldLocator)
         searhField.clear()
         searhField.send_keys(argument)
-        time.sleep(1)
+        time.sleep(2)
         searhField.send_keys(Keys.ESCAPE)
 
     def press_to_search_button(self):
